@@ -1,0 +1,4 @@
+com\itbcafrica\ordersendreceivetask\ProcessConstants.class
+com\itbcafrica\ordersendreceivetask\camunda\services\SendOrderDelegate.class
+com\itbcafrica\ordersendreceivetask\CamundaApplication.class
+com\itbcafrica\ordersendreceivetask\LoggerDelegate.class
